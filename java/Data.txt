@@ -1,0 +1,5 @@
+Hoang Nam;24;1.7,50  
+Hoai Linh;20;1.6,55  
+Van Toan;29;1.8,45 
+Le Quyen;34;1.75,53  
+Lon Beo;21;1.57,65  
