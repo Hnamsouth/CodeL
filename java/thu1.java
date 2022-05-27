@@ -1,4 +1,3 @@
-
 class test1 { // tên của class PHẢI trùng vs tên của file
 	// class để khai báo 1 chương trình con
 	// Khi 1 đoạn code mới đc chạy trình biên dịch sẽ tạo ra 1 file cùng tên vs file code.class

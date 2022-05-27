@@ -5,7 +5,7 @@ import java.util.Scanner;
 // thư viên của java. các dấu chấm là các nhóm phụ thuộc
 // vd. Scanner thuộc util & until thuộc java
 
-class timten {
+class adu {
     public void main(String[]argc){
 // ngoặc đơn() ấm chỉ fucntion có tên cùng vs class( gọi là hàm khởi tạo: Constructor)
         Scanner nhap = new Scanner(System.in); // lệnh input trong java. 
