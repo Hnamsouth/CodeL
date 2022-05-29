@@ -1,2 +1,0 @@
-# CodeL
-lam bai tap
